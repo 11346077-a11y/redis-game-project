@@ -23,7 +23,7 @@ except Exception as e:
     print("錯誤內容:", e)
     exit()
 
-# --- 2. 功能函數定義 (必須放在主程式上面！) ---
+# --- 2. 功能函數定義  ---
 
 def show_leaderboard():
     key = "test_leaderboard"
